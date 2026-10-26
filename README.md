@@ -8,7 +8,7 @@ A portfolio of university and personal work across artificial intelligence, mach
 | --- | --- | --- |
 | Artificial Intelligence | [Pacman search algorithms](Artificial%20Intelligence/) | Python, Pygame, DFS, GBFS, A* |
 | Machine Learning | [Mobile price analysis](Machine%20Learning/) | Python, Pandas, linear regression |
-| Natural Language Processing | [Spam detection system](NLP%20Project/) | Python, TF-IDF, classification, Tkinter |
+| Natural Language Processing | [Spam detection system](Natural%20Language%20Processing/) | Python, TF-IDF, classification, Tkinter |
 | Pattern Recognition | [Delhi air-quality prediction](Pattern%20Recognition%20Project/) | Python, classification, model comparison |
 | Data Analysis | [Super Store sales dashboard](Excel%20Project/) | Excel, PivotTables, PivotCharts, slicers |
 | Object-Oriented Programming | [Mastermind game](Object%20Oriented%20Programming/) | Java, JavaFX, OOP |
