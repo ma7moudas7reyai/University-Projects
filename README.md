@@ -13,7 +13,7 @@ A portfolio of university and personal work across artificial intelligence, mach
 | Data Analysis | [Super Store sales dashboard](Excel%20Project/) | Excel, PivotTables, PivotCharts, slicers |
 | Object-Oriented Programming | [Mastermind game](Object%20Oriented%20Programming/) | Java, JavaFX, OOP |
 | Databases | [Pharmacy database](Introduction%20To%20Database%20System/) | SQL Server, database design |
-| Web Development | [Streaming website interface](Web%20Project/) | HTML, CSS |
+| Web Development | [Streaming website interface](Web%20Technology/) | HTML, CSS |
 | Operating Systems | [Sockets and shared memory](OS%20Project/) | C++, Windows APIs, IPC |
 | Software Engineering | [Online study-material registration](Introduction%20To%20Software%20Engineering/) | Requirements and system design |
 | Advanced Software Engineering | [Car rental management system](Advanced%20Software%20Engineering%20Project/) | Java, Swing, SQL Server, JDBC, JUnit |
