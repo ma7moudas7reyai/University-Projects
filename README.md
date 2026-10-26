@@ -11,7 +11,7 @@ A portfolio of university and personal work across artificial intelligence, mach
 | Natural Language Processing | [Spam detection system](NLP%20Project/) | Python, TF-IDF, classification, Tkinter |
 | Pattern Recognition | [Delhi air-quality prediction](Pattern%20Recognition%20Project/) | Python, classification, model comparison |
 | Data Analysis | [Super Store sales dashboard](Excel%20Project/) | Excel, PivotTables, PivotCharts, slicers |
-| Object-Oriented Programming | [Mastermind game](Mastermind%20Project/) | Java, JavaFX, OOP |
+| Object-Oriented Programming | [Mastermind game](Object%20Oriented%20Programming/) | Java, JavaFX, OOP |
 | Databases | [Pharmacy database](Introduction%20To%20Database%20System/) | SQL Server, database design |
 | Web Development | [Streaming website interface](Web%20Project/) | HTML, CSS |
 | Operating Systems | [Sockets and shared memory](OS%20Project/) | C++, Windows APIs, IPC |
