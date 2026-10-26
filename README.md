@@ -12,7 +12,7 @@ A portfolio of university and personal work across artificial intelligence, mach
 | Pattern Recognition | [Delhi air-quality prediction](Pattern%20Recognition%20Project/) | Python, classification, model comparison |
 | Data Analysis | [Super Store sales dashboard](Excel%20Project/) | Excel, PivotTables, PivotCharts, slicers |
 | Object-Oriented Programming | [Mastermind game](Mastermind%20Project/) | Java, JavaFX, OOP |
-| Databases | [Pharmacy database](Database%20Projects/) | SQL Server, database design |
+| Databases | [Pharmacy database](Introduction%20To%20Database%20System/) | SQL Server, database design |
 | Web Development | [Streaming website interface](Web%20Project/) | HTML, CSS |
 | Operating Systems | [Sockets and shared memory](OS%20Project/) | C++, Windows APIs, IPC |
 | Software Engineering | [Online study-material registration](Software%20Project/) | Requirements and system design |
